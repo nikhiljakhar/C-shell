@@ -3,11 +3,11 @@
 ## To run the shell
 ```bash
 make
-./shell.out
+./shell
 ```
 Or just execute the uploaded executable file
 ```bash
-./shell.out
+./shell
 ```
 
 ## Features
